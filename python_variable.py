@@ -2,4 +2,8 @@
 # Values are assigned to variable names using a special symbol called the assignment operator (=) . The = operator takes the value to the
 # right of the operator and assigns it to the name on the left.
 name="Trinay Chauhan"
+a=4
+b=6
 print(name)
+print(a)
+print( b)
